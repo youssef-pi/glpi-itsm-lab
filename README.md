@@ -94,4 +94,3 @@ Projet de lab ITSM visant à **installer, configurer et administrer GLPI 10.0.24
 ## Auteur
 
 - **GitHub :** @youssef-pi  
-- **Date :** 2026-05-04
